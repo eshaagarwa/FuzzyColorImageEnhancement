@@ -1,7 +1,6 @@
-# Fuzzy Color Image Enhancement - Fuzzy Logic Course - ITE 5th Year
+# Fuzzy Color Image Enhancement 
 
 
-**This repo is migrated to: https://github.com/mo-waseem/fuzzy-color-image-enhancements**
 
 
 - This code is an implementation for a color image enhancement algorithm that mentioned in: 
