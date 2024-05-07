@@ -3,8 +3,7 @@
 
 
 
-- This code is an implementation for a color image enhancement algorithm that mentioned in: 
-    https://www.researchgate.net/publication/237202014_Color_Image_Enhancement_Using_the_Support_Fuzzification_in_the_Framework_of_the_Logarithmic_Model
+
 ## Abstract
 We can enhance the colors in an image by tunning two things brightness and contrast, this algorithm devided the image into fuzzy 
 windows and every pixel has a membership degree to every window, the membership degrees are calculated depending on 
